@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<
+
 👋 Hi, I’m Dharmveer
 👀 I’m interested in ... Programming.
 💬 Ask me about ... Node.js, React.js, Gatsby.js, Saniity.io Graphql and Next.js
