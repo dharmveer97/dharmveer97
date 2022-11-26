@@ -11,8 +11,7 @@
 📫 How to reach me ... dvbangar8@gmail.com
 
 
-
-![Dharmveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharmveer97)
+ ![Dharmveer's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/dharmveer97?theme=github-dark)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmveer97&layout=compact)]()
 
