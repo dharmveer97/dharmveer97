@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-👋 Hi, I’m Dharmveer
+###  👋 Hi, I’m Dharmveer
 
 👀 I’m interested in ... Programming.
 
