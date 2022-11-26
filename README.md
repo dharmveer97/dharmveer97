@@ -9,3 +9,7 @@
 💞️ I’m looking to collaborate on ... Any open source that fits my circle
 
 📫 How to reach me ... dvbangar8@gmail.com
+
+
+
+![Dharmveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharmveer97&hide=contribs,prs)
