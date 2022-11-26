@@ -12,4 +12,5 @@
 
 
 
-![Dharmveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharmveer97)
+![Dharmveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharmveer97) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmveer97&layout=compact)](https://github.com/dharmveer97/github-readme-stats)
+
