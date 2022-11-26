@@ -12,4 +12,4 @@
 
 
 
-![Dharmveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharmveer97&hide=contribs,prs)
+![Dharmveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharmveer97)
