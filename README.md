@@ -46,4 +46,18 @@ Here are some resources I recommend for learning and development:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Comprehensive resource for web standards and documentation.
 - [AWS Documentation](https://docs.aws.amazon.com/) - Official documentation for AWS services.
 
+ ![Dharmveer's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/dharmveer97?theme=github-dark)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharmveer97&theme=github-dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dharmveer97&color=blue)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dharmveer97&theme=github_dark)
+
+![Dharmveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmveer97&show_icons=true&theme=github_dark)
+
+
+
 ---
+
+
