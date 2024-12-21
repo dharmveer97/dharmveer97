@@ -1,14 +1,49 @@
-###  👋 Hi, I’m Dharmveer
 
-👀 I’m interested in ... Programming.
+---
 
-💬 Ask me about ... Node.js, React.js, Gatsby.js, Saniity.io Graphql and Next.js
+# 👋 Hi, I’m Dharmveer
 
-💞️ I’m looking to collaborate on ... Any open source that fits my circle
+Welcome to my GitHub profile! I'm a passionate programmer with a keen interest in various technologies and frameworks. Whether it's building web applications or exploring the depths of backend systems, I'm always eager to learn and contribute.
 
-📫 How to reach me ... dvbangar8@gmail.com
+## 👀 Interests
+I have a strong passion for programming and enjoy working with:
+- **Frontend Technologies:** React.js, Next.js, Gatsby.js, EJS
+- **Backend Technologies:** Node.js, GraphQL, REST APIs
+- **Databases:** MongoDB, Supabase, Contentful
+- **Cloud Services:** AWS (EC2, S3, SES, Area 52), Netlify, Vercel
+- **Mobile Development:** React Native, Expo
+- **Other Tools:** Sanity.io, Storyblocks, Elasia.js
 
+## 💬 Ask Me About
+Feel free to reach out if you have questions or want to discuss any of the following:
+- Designing and building RESTful and GraphQL APIs
+- Database management and integrations
+- Deployment and cloud architecture on AWS
+- Static site hosting with Netlify and Vercel
+- Frontend frameworks and best practices
+- Mobile app development with React Native
 
- ![Dharmveer's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/dharmveer97?theme=github-dark)  
+Feel free to check out my repositories for more details!
 
+## 📫 How to Reach Me
+You can reach me at my email: [dvbangar8@gmail.com](mailto:dvbangar8@gmail.com)
 
+---
+
+![Dharmveer's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dharmveer97?theme=github-dark)
+
+---
+
+## 🌱 Learning
+I’m currently expanding my skills in:
+- Advanced GraphQL techniques (Gql is my personal favourite as well)
+- Serverless architecture
+- Progressive Web Applications (PWAs)
+
+## 📚 Resources
+Here are some resources I recommend for learning and development:
+- [FreeCodeCamp](https://www.freecodecamp.org/) - Great platform for learning web development.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) - Comprehensive resource for web standards and documentation.
+- [AWS Documentation](https://docs.aws.amazon.com/) - Official documentation for AWS services.
+
+---
