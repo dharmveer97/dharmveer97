@@ -52,10 +52,6 @@ Here are some resources I recommend for learning and development:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dharmveer97&color=blue)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dharmveer97&theme=github_dark)
-
-![Dharmveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmveer97&show_icons=true&theme=github_dark)
-
 
 
 ---
