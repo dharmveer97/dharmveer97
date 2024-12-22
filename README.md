@@ -29,9 +29,6 @@ Feel free to check out my repositories for more details!
 You can reach me at my email: [dvbangar8@gmail.com](mailto:dvbangar8@gmail.com)
 
 ---
-
-![Dharmveer's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dharmveer97?theme=github-dark)
-
 ---
 
 ## 🌱 Learning
