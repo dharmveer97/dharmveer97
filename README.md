@@ -3,16 +3,20 @@
 
 # 👋 Hi, I’m Dharmveer
 
+
+
 Welcome to my GitHub profile! I'm a passionate programmer with a keen interest in various technologies and frameworks. Whether it's building web applications or exploring the depths of backend systems, I'm always eager to learn and contribute.
 
 ## 👀 Interests
+
 I have a strong passion for programming and enjoy working with:
-- **Frontend Technologies:** React.js, Next.js, Gatsby.js, EJS
+- **Mobile Development:** React Native, Expo
+- **Frontend Technologies:** React.js, Next.js, Svelte, Remix, Gatsby.js, EJS
 - **Backend Technologies:** Node.js, GraphQL, REST APIs
 - **Databases:** MongoDB, Supabase, Contentful
-- **Cloud Services:** AWS (EC2, S3, SES, Area 52), Netlify, Vercel
-- **Mobile Development:** React Native, Expo
-- **Other Tools:** Sanity.io, Storyblocks, Elasia.js
+- **Cloud Services:** AWS (EC2, S3, SES, Area 52), Netlify, Vercel, Supabase,
+- **AI Tech:** Vercel AI SDK, Langchain, Ollama, Gemini Image Generative AI, Etc
+- **Other Tools:** Sanity.io, Storyblocks, Elasia.js, DatoCMS, GraphCMS
 
 ## 💬 Ask Me About
 Feel free to reach out if you have questions or want to discuss any of the following:
